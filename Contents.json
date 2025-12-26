@@ -1,10 +1,287 @@
 {
-    "namePlates": [
-    ],
-    "hats": [
-    ],
-    "visors": [
-    ],
-    "packages": [
-    ]
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "0d5bd90cc1fa9efbb078d407d8d5d08e",
+				"Address" : "fG7dgijl_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "0d5bd90cc1fa9efbb078d407d8d5d08e",
+				"Address" : "fG7dgijl_Move.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "e02bd7bb97907bff892d50303077797f",
+				"Address" : "fG7dgijl_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "錦木千束\(通常版\)",
+			"Author" : "エンジェル",
+			"Package" : "Angel fashions",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0d5bd90cc1fa9efbb078d407d8d5d08e",
+				"Address" : "YTYei7jOb_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "0d5bd90cc1fa9efbb078d407d8d5d08e",
+				"Address" : "YTYei7jOb_Move.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "e02bd7bb97907bff892d50303077797f",
+				"Address" : "YTYei7jOb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "錦木千束\(カラーVer\.\)",
+			"Author" : "エンジェル",
+			"Package" : "Angel fashions",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f658529edb4484efc7c08ea8c0edfd3f",
+				"Address" : "gBY5jwdc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d78ccb4a617a03ec9ef45884a8921477",
+				"Address" : "gBY5jwdc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "おさげちゃん",
+			"Author" : "エンジェル",
+			"Package" : "Angel fashions",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f36b056c9b2b7fcc8ccb1122f743afb5",
+				"Address" : "Zwy4TCEKb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "9c91ed9b1e3a0277ed894b6a9507732d",
+				"Address" : "Zwy4TCEKb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f36b056c9b2b7fcc8ccb1122f743afb5",
+				"Address" : "Zwy4TCEKb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "王将・玉将",
+			"Author" : "エンジェル",
+			"Package" : "Angel fashions",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "06e05cc0c9a49edc3c1592ed591c6ea9",
+				"Address" : "q7coaALF_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "1b1f6a06980433eb666b6d651794c17f",
+				"Address" : "q7coaALF_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "井ノ上　たきな\(通常衣装\)",
+			"Author" : "エンジェル",
+			"Package" : "Angel fashions",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"Visors" : [
+		{
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "e4b2beab81172a370da6eacad9a5b4b2",
+				"Address" : "YFxy_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "45928c29be3c7e0d82b2b2967867e620",
+				"Address" : "YFxy_Climb.png",
+				"ExIsFront" : False
+			},
+			"Fixed" : False,
+			"Name" : "お酒",
+			"Author" : "エンジェル",
+			"Package" : "Angel fashions",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "75a9ea764a3f96ea11d5b7c2ebd5a22d",
+				"Address" : "GYkpb_Main.png",
+				"ExIsFront" : False
+			},
+			"Fixed" : False,
+			"Name" : "馬券",
+			"Author" : "エンジェル",
+			"Package" : "Angel fashions",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "1860f7347a84f06e1acadba4540a7f74",
+				"Address" : "Ss39bi_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "1e1e004ca905fcc48596a7fe084a7049",
+				"Address" : "Ss39bi_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "999d0fb15ed5c4cad10a3e3a6a2f136f",
+				"Address" : "Ss39bi_Climb.png",
+				"ExIsFront" : False
+			},
+			"Fixed" : False,
+			"Name" : "Huh\?",
+			"Author" : "けんちゃん",
+			"Package" : "Angel fashions",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "ccfbbabab594d2df56c8bcc54bc4af9b",
+				"Address" : "vnD123wmc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "ff1d12cf3309492360f32345649bba46",
+				"Address" : "vnD123wmc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Fixed" : False,
+			"Name" : "キタサンブラック\(ウマ娘の姿\)",
+			"Author" : "エンジェル",
+			"Package" : "Angel fashions",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "dd0ee162dff39a7dca65afa8f9f32789",
+				"Address" : "BK7IFeUQb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "5a13d22473a86040da53203ad5543e61",
+				"Address" : "BK7IFeUQb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Fixed" : False,
+			"Name" : "サトノダイヤモンド\(ウマ娘の姿\)",
+			"Author" : "エンジェル",
+			"Package" : "Angel fashions",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "b897eb674f13c15983348278c18eea8d",
+				"Address" : "TJ6IwGvB_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "9375aaddff88a683f3316ef222115c43",
+				"Address" : "TJ6IwGvB_Climb.png",
+				"ExIsFront" : False
+			},
+			"Fixed" : False,
+			"Name" : "トウカイてイオー\(ウマ娘の姿\)",
+			"Author" : "エンジェル",
+			"Package" : "Angel fashions",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"Nameplates" : [
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "Angel fashions",
+			"Format" : "Angel fashions",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"IsLocalizable" : True
 }
